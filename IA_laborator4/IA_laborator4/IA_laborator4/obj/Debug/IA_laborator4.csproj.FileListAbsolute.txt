@@ -1,0 +1,39 @@
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\bin\Debug\IA_laborator4.exe.config
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\bin\Debug\IA_laborator4.exe
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\bin\Debug\IA_laborator4.pdb
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\obj\Debug\IA_laborator4.csprojAssemblyReference.cache
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\obj\Debug\IA_laborator4.Form1.resources
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\obj\Debug\IA_laborator4.Properties.Resources.resources
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\obj\Debug\IA_laborator4.csproj.GenerateResource.cache
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\obj\Debug\IA_laborator4.csproj.CoreCompileInputs.cache
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\obj\Debug\IA_laborator4.exe
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\obj\Debug\IA_laborator4.pdb
+C:\Users\IM320\Desktop\Adelina Manolea\invatare automata\IA_laborator4\IA_laborator4\bin\Debug\IA_laborator4.exe.config
+C:\Users\IM320\Desktop\Adelina Manolea\invatare automata\IA_laborator4\IA_laborator4\bin\Debug\IA_laborator4.exe
+C:\Users\IM320\Desktop\Adelina Manolea\invatare automata\IA_laborator4\IA_laborator4\bin\Debug\IA_laborator4.pdb
+C:\Users\IM320\Desktop\Adelina Manolea\invatare automata\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.csprojAssemblyReference.cache
+C:\Users\IM320\Desktop\Adelina Manolea\invatare automata\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.Form1.resources
+C:\Users\IM320\Desktop\Adelina Manolea\invatare automata\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.Properties.Resources.resources
+C:\Users\IM320\Desktop\Adelina Manolea\invatare automata\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.csproj.GenerateResource.cache
+C:\Users\IM320\Desktop\Adelina Manolea\invatare automata\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.exe
+C:\Users\IM320\Desktop\Adelina Manolea\invatare automata\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.pdb
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\IA_laborator4\IA_laborator4\bin\Debug\IA_laborator4.exe.config
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\IA_laborator4\IA_laborator4\bin\Debug\IA_laborator4.exe
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\IA_laborator4\IA_laborator4\bin\Debug\IA_laborator4.pdb
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.csproj.AssemblyReference.cache
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.Form1.resources
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.Properties.Resources.resources
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.csproj.GenerateResource.cache
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.csproj.CoreCompileInputs.cache
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.exe
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.pdb
+C:\Users\user\Desktop\IA_laborator4\IA_laborator4\IA_laborator4\bin\Debug\IA_laborator4.exe.config
+C:\Users\user\Desktop\IA_laborator4\IA_laborator4\IA_laborator4\bin\Debug\IA_laborator4.exe
+C:\Users\user\Desktop\IA_laborator4\IA_laborator4\IA_laborator4\bin\Debug\IA_laborator4.pdb
+C:\Users\user\Desktop\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.Form1.resources
+C:\Users\user\Desktop\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.Properties.Resources.resources
+C:\Users\user\Desktop\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.exe
+C:\Users\user\Desktop\IA_laborator4\IA_laborator4\IA_laborator4\obj\Debug\IA_laborator4.pdb
